@@ -1,6 +1,6 @@
 <div align=left> 
 
-  ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&width=500&text=Welcome%20to%20YONGJUN%20OH's%20GitHub&fontSize=40&fontColor=FFFFFF&fontAlignY=30&color=#8A2BE2)
+  ![header](https://capsule-render.vercel.app/api?type=Waving&height=180&width=500&text=Welcome%20to%20YONGJUN%20OH's%20GitHub&fontSize=40&fontColor=FFFFFF&fontAlignY=30&color=#8A2BE2)
 
   <div><h1>🔗 Link </h1></div>
   <a href="https://instagram.com/55._.yong"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
