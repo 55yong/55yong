@@ -1,4 +1,4 @@
-<div align=center> 
+<div align=left> 
 
   ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&width=500&text=Welcome%20to%20YONGJUN%20OH's%20GitHub&fontSize=40&fontColor=FFFFFF&fontAlignY=30&color=#8A2BE2)
 
