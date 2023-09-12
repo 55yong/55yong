@@ -1,7 +1,10 @@
 <div align=left> 
 
-<br>
-<div><h1>📚 Skills  </h1></div>
+  <div><h1>🔗 Links </h1></div>
+  <a href="https://instagram.com/55._.yong"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  
+  <br>
+  <div><h1>📚 Skills  </h1></div>
 
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/c_sharp-239120?style=for-the-badge&logo=csharp&logoColor=white">
@@ -24,10 +27,9 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
   <br>
 
-<div><h1> ✏ GitHub Stats </h1></div>
+  <div><h1> ✏ GitHub Stats </h1></div>
 
-![YONGJUN OH's GitHub stats](https://github-readme-stats.vercel.app/api?username=55yong&theme=cobalt&icons=true&show_icons=true&title_color=a8edea)
+  ![YONGJUN OH's GitHub stats](https://github-readme-stats.vercel.app/api?username=55yong&theme=cobalt&icons=true&show_icons=true&title_color=a8edea)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=55yong)](https://github.com/anuraghazra/github-readme-stats)
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=55yong)](https://github.com/anuraghazra/github-readme-stats)
 </div>
