@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=180&width=500&text=Welcome%20to%20YONGJUN%20OH's%20GitHub&fontSize=40&fontColor=FFFFFF&fontAlignY=30&color=#8A2BE2)
 
 # 🔗 Link & Contacts
-[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/55._.yong)
-[![velog](https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@55_coding)
-[![gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhdydwns988@gmail.com)
-[![kakaomail](https://img.shields.io/badge/kakao-FFCD00?style=for-the-badge&logo=kakao&logoColor=black)](mailto:rmdir@kakao.com)
+<a href="https://instagram.com/55._.yong" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://velog.io/@55_coding" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
+<a href="mailto:dhdydwns988@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:rmdir@kakao.com" target="_blank"><img src="https://img.shields.io/badge/kakao-FFCD00?style=for-the-badge&logo=kakao&logoColor=black"></a>
 
 <br>
 
