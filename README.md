@@ -1,4 +1,6 @@
-<div align=left> 
+<div align=center style="border:4px solid gold;"> 
+
+  ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&width=500&text=Welcome%20to%20YONGJUN%20OH's%20GitHub&fontSize=40&fontColor=FFFFFF&fontAlignY=30&color=#8A2BE2)
 
   <div><h1>🔗 Link </h1></div>
   <a href="https://instagram.com/55._.yong"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -30,7 +32,7 @@
 
   <div><h1>✏ GitHub Stats</h1></div>
 
-  ![YONGJUN OH's GitHub stats](https://github-readme-stats.vercel.app/api?username=55yong&theme=cobalt&icons=true&show_icons=true&title_color=a8edea)
-
+  ![YONGJUN OH's GitHub stats](https://github-readme-stats.vercel.app/api?username=55yong&show_icons=true&theme=transparent)
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=55yong)](https://github.com/anuraghazra/github-readme-stats)
 </div>
