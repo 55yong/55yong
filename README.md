@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&height=180&text=Welcome%20to%20YONGJUN%20OH's%20GitHub&fontSize=40&fontColor=0:BFBFBF,100:FFFFFF&fontAlignY=30&desc=Network,%20Server%20Manager&descAlignY=45&color=0:BB91E3,100:8A2BE2" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&height=180&text=Welcome%20to%20YONGJUN%20OH's%20GitHub&fontSize=40&fontColor=FFFFFF&fontAlignY=30&desc=Network,%20Server%20Manager&descAlignY=45&color=0:BB91E3,100:8A2BE2" />
 
 # 🔗 Link & Contacts
 <a href="https://instagram.com/55._.yong"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
