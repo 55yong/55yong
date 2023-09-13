@@ -31,6 +31,6 @@
 <br>
 
 # ✏ GitHub Stats
-![YONGJUN OH's GitHub stats](https://github-readme-stats.vercel.app/api?username=55yong?count_private=true&show_icons=true&theme=transparent)
+![YONGJUN OH's GitHub stats](https://github-readme-stats.vercel.app/api?username=55yong&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=55yong)](https://github.com/anuraghazra/github-readme-stats)
