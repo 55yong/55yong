@@ -2,7 +2,7 @@
 
 ### 🔗 Link & Contacts
 <a href="https://instagram.com/55._.yong"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
-<a href="https://velog.io/@55_coding"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"></a>
+<a href="https://velog.io/@55yong"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"></a>
 <a href="mailto:dhdydwns988@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 <a href="mailto:rmdir@kakao.com"><img src="https://img.shields.io/badge/kakao-FFCD00?style=flat-square&logo=kakao&logoColor=black"></a>
 
