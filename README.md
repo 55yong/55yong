@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&height=180&text=⭐️Welcome%20to%20YONGJUN%20OH's%20GitHub⭐️&animation=blinking&fontSize=40&fontColor=FFFFFF&fontAlignY=35&color=0:BB91E3,100:8A2BE2" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&height=180&text=⭐️Welcome%20to%20YONGJUN%20OH's%20GitHub⭐️&animation=blinking&fontSize=40&fontColor=FFFFFF&fontAlignY=35&color=0:8A2BE2,25:9B4DE3,50:AB6EF3,75:BB91E3" />
 
 ### 🔗 Link & Contacts
 <a href="https://instagram.com/55._.yong"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
