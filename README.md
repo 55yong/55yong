@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Debian%20Linux-A81D33?style=for-the-badge&logo=debian&logoColor=white">
   <img src="https://img.shields.io/badge/windows%20server-0078D4?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/cisco%20networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
   <br>
