@@ -5,16 +5,9 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F55yong%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 
-<h3 align="center">🔗 Link & Contacts</h3>
-<p align="center">
-  <a href="https://instagram.com/55._.yong"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
-  <a href="https://velog.io/@55yong"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"></a>
-  <a href="mailto:dhdydwns988@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="mailto:rmdir@kakao.com"><img src="https://img.shields.io/badge/kakao-FFCD00?style=flat-square&logo=kakao&logoColor=black"></a>
-</p>
 <h2 align="center">📚 Skills</h2>
 <h3 align="center">📖 Languages & Platforms</h3>
-<div align="center">
+<p align="center">
   <a href="https://www.debian.org"><img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=Debian&logoColor=white"/></a>
   <a href="https://ubuntu.com"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
   <a href="https://rockylinux.org"><img src="https://img.shields.io/badge/Rocky%20Linux-10B981?style=flat-square&logo=rockylinux&logoColor=white"></a>
@@ -33,8 +26,10 @@
   <a href="https://www.oracle.com/"><img src="https://img.shields.io/badge/Oracle%20Database-F80000?style=flat-square&logo=Oracle&logoColor=white"></a>
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"></a>
   <br>
-  
+</p>
+
 <h3 align="center">🛠 Tools</h3>
+<p align="center">
   <a href="https://www.vmware.com"><img src="https://img.shields.io/badge/VMware%20Workstation-607078?style=flat-square&logo=VMware&logoColor=white"/></a>
   <a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"></a>
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"></a>
@@ -45,8 +40,15 @@
   <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"></a>
   <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
-</div>
-<br>
+</p>
+
+<h3 align="center">🔗 Link & Contacts</h3>
+<p align="center">
+  <a href="https://instagram.com/55._.yong"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
+  <a href="https://velog.io/@55yong"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"></a>
+  <a href="mailto:dhdydwns988@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="mailto:rmdir@kakao.com"><img src="https://img.shields.io/badge/kakao-FFCD00?style=flat-square&logo=kakao&logoColor=black"></a>
+</p>
 
 <h2 align="center">✏ GitHub Stats</h2>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=55yong" alt="Anurag&#39;s github stats"></a></p>
