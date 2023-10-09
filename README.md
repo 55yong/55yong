@@ -49,6 +49,9 @@
   <a href="mailto:rmdir@kakao.com"><img src="https://img.shields.io/badge/kakao-FFCD00?style=flat-square&logo=kakao&logoColor=black"></a>
 </p>
 
+<hr>
+<br>
+
 <h2 align="center">✏ GitHub Stats</h2>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=55yong" alt="Anurag&#39;s github stats"></a></p>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=55yong&amp;layout=compact" alt="Top Langs"></a></p>
