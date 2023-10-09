@@ -15,7 +15,7 @@
 <br>
 
 <div align="left">
-  <h2 align="left">📖 Languages & Platformss  </h2>
+  <h2 align="left">📖 Languages & Platforms</h2>
     <h3 align="left">🥇 Professional</h3>
       <a href="https://www.debian.org"><img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=Debian&logoColor=white"/></a>
       <a href="https://ubuntu.com"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
