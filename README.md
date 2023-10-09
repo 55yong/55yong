@@ -55,7 +55,7 @@
 
 <br>
 
-<div align="center">
+<div align="left">
   <h2 align="left">✏ GitHub Stats</h2>
     <a href="https://github.com/55yong"><img style="height: 180px" src="https://github-readme-stats.vercel.app/api?username=55yong" alt="Anurag&#39;s github stats"></a>
     <a href="https://github.com/55yong"><img style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=55yong&amp;layout=compact" alt="Top Langs"></a>
