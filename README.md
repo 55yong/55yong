@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=Waving&height=180&text=⭐️Welcome%20to%20YONGJUN%20OH's%20GitHub⭐️&animation=blinking&fontSize=40&fontColor=FFFFFF&fontAlignY=35&color=0:8A2BE2,25:9B4DE3,50:AB6EF3,75:BB91E3" />
 </p>
 
-<h2 align="center">📚 Skills</h2>
+<h1 align="center">📚 Skills  </h1>
 <h3 align="center">📖 Languages & Platforms</h3>
 <p align="center">
   <a href="https://www.debian.org"><img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=Debian&logoColor=white"/></a>
@@ -41,7 +41,7 @@
   <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
 </p>
 
-<h3 align="center">🔗 Link & Contacts</h3>
+<h2 align="center">🔗 Link & Contacts</h2>
 <p align="center">
   <a href="https://instagram.com/55._.yong"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
   <a href="https://velog.io/@55yong"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"></a>
@@ -49,9 +49,6 @@
   <a href="mailto:rmdir@kakao.com"><img src="https://img.shields.io/badge/kakao-FFCD00?style=flat-square&logo=kakao&logoColor=black"></a>
 </p>
 
-<hr>
-<br>
-
-<h2 align="center">✏ GitHub Stats</h2>
+<h1 align="center">✏ GitHub Stats</h1>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=55yong" alt="Anurag&#39;s github stats"></a></p>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=55yong&amp;layout=compact" alt="Top Langs"></a></p>
