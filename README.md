@@ -12,6 +12,8 @@
     <a href="mailto:rmdir@kakao.com"><img src="https://img.shields.io/badge/kakao-FFCD00?style=flat-square&logo=kakao&logoColor=black"></a>
 </div>
 
+<br>
+
 <div align="left">
   <h2 align="left">📖 Languages & Platformss  </h2>
     <h3 align="left">🥇 Professional</h3>
@@ -35,6 +37,8 @@
       <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></a>
 </div>
 
+<br>
+
 <div align="left">
   <h2 align="left">🛠 Tools</h2>
     <a href="https://www.vmware.com"><img src="https://img.shields.io/badge/VMware%20Workstation-607078?style=flat-square&logo=VMware&logoColor=white"/></a>
@@ -48,6 +52,8 @@
     <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"></a>
     <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
 </div>
+
+<br>
 
 <div align="left">
   <h2 align="left">✏ GitHub Stats</h2>
