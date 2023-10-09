@@ -4,6 +4,14 @@
   <img src="https://capsule-render.vercel.app/api?type=Waving&height=180&text=⭐️Welcome%20to%20YONGJUN%20OH's%20GitHub⭐️&animation=blinking&fontSize=40&fontColor=FFFFFF&fontAlignY=35&color=0:8A2BE2,25:9B4DE3,50:AB6EF3,75:BB91E3" />
 </p>
 
+<h2 align="center">🔗 Link & Contacts</h2>
+<p align="center">
+  <a href="https://instagram.com/55._.yong"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
+  <a href="https://velog.io/@55yong"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"></a>
+  <a href="mailto:dhdydwns988@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="mailto:rmdir@kakao.com"><img src="https://img.shields.io/badge/kakao-FFCD00?style=flat-square&logo=kakao&logoColor=black"></a>
+</p>
+
 <h1 align="center">📚 Skills  </h1>
 <h3 align="center">📖 Languages & Platforms</h3>
 <p align="center">
@@ -39,14 +47,6 @@
   <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"></a>
   <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
-</p>
-
-<h2 align="center">🔗 Link & Contacts</h2>
-<p align="center">
-  <a href="https://instagram.com/55._.yong"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
-  <a href="https://velog.io/@55yong"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"></a>
-  <a href="mailto:dhdydwns988@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="mailto:rmdir@kakao.com"><img src="https://img.shields.io/badge/kakao-FFCD00?style=flat-square&logo=kakao&logoColor=black"></a>
 </p>
 
 <h1 align="center">✏ GitHub Stats</h1>
