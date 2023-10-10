@@ -1,7 +1,6 @@
-# 55yong <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F55yong%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
-
 <div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=Waving&height=180&text=⭐️Welcome%20to%20YONGJUN%20OH's%20GitHub⭐️&animation=blinking&fontSize=40&fontColor=FFFFFF&fontAlignY=35&color=0:8A2BE2,25:9B4DE3,50:AB6EF3,75:BB91E3" />
+  <h1>Hello, I'm Yongjun OH! <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F55yong%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a></h1>
+  <h3></h3>
 </div>
 
 <div align="left">
