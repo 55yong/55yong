@@ -2,6 +2,7 @@
   <h1><img src="https://i.redd.it/6do158vk2ue61.png" style="border-radius: 70%; height: 40px; width: 40px;">Hello, I'm Yongjun OH! <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F55yong%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a></h1>
   <h3>📊 Career</h3>
   <ul>
+    <li>2017.04 경상북도 지방기능경기대회 보조 위원</li>
     <li>2020.02 금파공업고등학교 IT네트워크시스템 특강 강사</li>
     <li>2022.01 ~ 2022.02 충청북도 학내망 개선사업 참여</li>
     <li>2022.05 ~ 2022.08 경북소프트웨어고등학교 사이버보안 특강 강사</li>
