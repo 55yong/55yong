@@ -1,6 +1,8 @@
 <div align="left">
   <h1><img src="https://i.redd.it/6do158vk2ue61.png" style="border-radius: 70%; height: 40px; width: 40px;">Hello, I'm Yongjun OH! <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F55yong%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a></h1>
 
+<br>
+
 <div align="left">
   <h2 align="left">🔗 Link & Contacts</h2>
     <a href="https://instagram.com/55._.yong"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
