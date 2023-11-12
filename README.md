@@ -1,5 +1,47 @@
 <div align="left">
   <h1><img src="https://i.redd.it/6do158vk2ue61.png" style="border-radius: 70%; height: 40px; width: 40px;">Hello, I'm Yongjun OH! <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F55yong%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a></h1>
+</div>
+<div align="left">
+  <h3>📊 Career</h3>
+  <ul>
+    <li>2017.04 경상북도 지방기능경기대회 보조 위원</li>
+    <li>2020.02 금파공업고등학교 IT네트워크시스템 특강 강사</li>
+    <li>2022.01 ~ 2022.02 LG U+ 주관 충청북도 학내망 개선사업 참여</li>
+    <li>2022.05 ~ 2022.08 경북소프트웨어고등학교 사이버보안 특강 강사</li>
+    <li>2023.03 ~ 2023.04 경북소프트웨어고등학교 사이버보안 특강 강사</li>
+  </ul>
+  
+  <h3>🏆 Prize</h3>
+  <ul>
+    <li>2017 글로벌숙련기술진흥원 전수과정(기초) 최우수전수생 선정</li>
+    <li>2018 경상북도 지방기능경기대회 IT네트워크시스템 직종 은메달 (2위)</li>
+    <li>2018 전라남도 전국기능경기대회 IT네트워크시스템 직종 장려상 (10위)</li>
+    <li>2019 경상북도 지방기능경기대회 IT네트워크시스템 직종 금메달 (1위)</li>
+    <li>2019 경상북도 지방기능경기대회 우수선수 선정</li>
+    <li>2019 부산광역시 전국기능경기대회 IT네트워크시스템 직종 동메달 (3위)</li>
+    <li>2023 영남이공대학교 공학센터 주관 미래신산업수요특화형(IoT)경진대회 2위</li>
+  </ul>
+  
+  <h3>🏃 Activity</h3>
+  <ul>
+    <li>2017.03 ~ 2020.01 금오공업고등학교 IT네트워크시스템 기능영재생</li>
+    <li>2017 글로벌숙련기술진흥원 전수과정(기초) 수료</li>
+    <li>2017 경희대학교 ICT 커리어 개발 체험 캠프 수료</li>
+    <li>2017 글로벌숙련기술진흥원 전수과정(심화) 수료</li>
+    <li>2017 글로벌숙련기술진흥원 기능경기대회 대비 특수 훈련 수료</li>
+    <li>2018 글로벌숙련기술진흥원 전수과정(응용) 수료</li>
+    <li>2023 영남이공대학교 공학센터 주관 미래신산업수요특화형(IoT)교육 수료</li>
+    <li>2023 제주대학교 공학센터 주관 제주스마트관광 빅데이터해커톤 참여</li>
+  </ul>
+  <h3>📰 Certificate</h3>
+  <ul>
+    <li>정보기기운용기능사 (2018년 취득)</li>
+    <li>전기기능사 (2019년 취득)</li>
+    <li>정보처리산업기사 (2021년 취득)</li>
+
+
+  </ul>
+</div>
 
 <br>
 
