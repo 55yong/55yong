@@ -65,6 +65,7 @@
       <a href="https://ubuntu.com"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
       <a href="https://rockylinux.org"><img src="https://img.shields.io/badge/Rocky%20Linux-10B981?style=flat-square&logo=rockylinux&logoColor=white"></a>
       <a href="https://www.microsoft.com"><img src="https://img.shields.io/badge/Windows Server-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
+      <br>
       <a href="https://www.cisco.com"><img src="https://img.shields.io/badge/Cisco%20Networking-1BA0D7?style=flat-square&logo=Cisco&logoColor=white"/></a>
     <h3 align="left">🥈 Well-Done</h3>
       <a href="https://ko.wikipedia.org/wiki/C_(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%96%B8%EC%96%B4)"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"></a>
