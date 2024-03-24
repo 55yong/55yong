@@ -49,7 +49,7 @@
 
 <br>
 
-<div align="center">
+<div align="left">
   <h2 align="left">🔗 Link & Contacts</h2>
     <a href="https://velog.io/@55yong"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
     <a href="mailto:dhdydwns988@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
