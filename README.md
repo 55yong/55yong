@@ -57,8 +57,6 @@
 
 <div align="left">
 <h2 align="left">🔗Link & Contacts</h2>
-  <a href="https://yongjun-workspace.notion.site/b0cde640afab4f4f9e0e00358ff5ef38?pvs=74" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white"></a>
-  <a href="https://velog.io/@55yong" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"></a>
 </div>
 
 <div align="left">
