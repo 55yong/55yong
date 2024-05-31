@@ -59,10 +59,6 @@
 - 정보기기운용기능사 **`2018.04`**
 
 <div align="left">
-<h2 align="left">🔗Link & Contacts</h2>
-</div>
-
-<div align="left">
   <h2 align="left">📚 Tech Stacks</h2>
       <a href="https://www.debian.org"><img src="https://img.shields.io/badge/Debian Linux-A81D33?style=flat-square&logo=Debian&logoColor=white"/></a>
       <a href="https://www.debian.org"><img src="https://img.shields.io/badge/Ubuntu Linux-E95420?style=flat-square&logo=ubuntu&logoColor=white"/></a>
