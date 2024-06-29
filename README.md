@@ -10,7 +10,7 @@
 
 ## 📚 Tech Stacks
 [![Tech Stacks](https://skillicons.dev/icons?i=debian,ubuntu,windows,bash)](https://skillicons.dev)   
-[![Tech Stacks](https://skillicons.dev/icons?i=html,css,js,react,redux)](https://skillicons.dev)
+[![Tech Stacks](https://skillicons.dev/icons?i=html,css,js,ts,react,redux)](https://skillicons.dev)
 
 <div align="left">
   <h2 align="left">📊 GitHub Stats</h2>
