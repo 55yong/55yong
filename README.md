@@ -5,7 +5,7 @@
 </div>
 
 ## 📞 Profile, Contacts
-[![Contacts](https://skillicons.dev/icons?i=notion)](https://yongjun-workspace.notion.site/69bfd4afd72640f68c08665ac3a3cd08?pvs=4)
+[![Contacts](https://skillicons.dev/icons?i=notion)](https://55yong.notion.site/69bfd4afd72640f68c08665ac3a3cd08)
 [![Contacts](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/55yongphoto/)
 
 ## 📚 Tech Stacks
