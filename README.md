@@ -12,6 +12,10 @@
 [![Tech Stacks](https://skillicons.dev/icons?i=debian,ubuntu,windows,bash)](https://skillicons.dev)   
 [![Tech Stacks](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
 
+
+## 📈 Solved.ac
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=55yong)](https://solved.ac/55yong)
+
 <div align="left">
   <h2 align="left">📊 GitHub Stats</h2>
     <a href="https://github.com/55yong"><img style="height: 180px" src="https://github-readme-stats.vercel.app/api?username=55yong" alt="Anurag&#39;s github stats"></a>
