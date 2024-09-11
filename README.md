@@ -14,7 +14,7 @@
 
 
 ## 📈 Solved.ac
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=55yong)](https://solved.ac/55yong)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=55yong)](https://solved.ac/55yong/)
 
 <div align="left">
   <h2 align="left">📊 GitHub Stats</h2>
