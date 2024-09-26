@@ -15,11 +15,14 @@
 ## 🛠️ Using tools
 [![tools](https://skillicons.dev/icons?i=vim,vscode,figma)](https://skillicons.dev)
 
-## 📈 Solved.ac
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=55yong)](https://solved.ac/55yong/)
+<div align="left">
+  <h2>📈 Solved.ac</h2>
+  <img style="height: 180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=55yong"/>
+  <img style="height: 180px" src="http://mazandi.herokuapp.com/api?handle=55yong&theme=warm"/>
+</div>
 
 <div align="left">
   <h2 align="left">📊 GitHub Stats</h2>
-    <a href="https://github.com/55yong"><img style="height: 180px" src="https://github-readme-stats.vercel.app/api?username=55yong" alt="Anurag&#39;s github stats"></a>
-    <a href="https://github.com/55yong"><img style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=55yong&amp;layout=compact" alt="Top Langs"></a>
+    <img style="height: 180px" src="https://github-readme-stats.vercel.app/api?username=55yong" alt="Anurag&#39;s github stats">
+    <img style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=55yong&amp;layout=compact" alt="Top Langs">
 </div>
