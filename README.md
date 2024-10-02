@@ -17,8 +17,8 @@
 
 <div align="left">
   <h2>📈 Solved.ac</h2>
-  <img style="height: 180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=55yong"/>
-  <img style="height: 180px" src="http://mazandi.herokuapp.com/api?handle=55yong&theme=cold"/>
+  <a href="https://solved.ac/profile/55yong"><img style="height: 180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=55yong"/></a>
+  <a href="https://solved.ac/profile/55yong"><img style="height: 180px" src="http://mazandi.herokuapp.com/api?handle=55yong&theme=cold"/></a>
 </div>
 
 <div align="left">
