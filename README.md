@@ -10,10 +10,10 @@
 
 
 ## 📚 Tech stacks
-[![Tech Stacks](https://skillicons.dev/icons?i=debian,ubuntu,windows,bash,html,css,js,react&perline=4)](https://skillicons.dev)   
+[![Tech Stacks](https://skillicons.dev/icons?i=debian,ubuntu,windows,bash,html,css,js,react,java&perline=4)](https://skillicons.dev)   
 
 ## 🛠️ Using tools
-[![tools](https://skillicons.dev/icons?i=vim,vscode,figma)](https://skillicons.dev)
+[![tools](https://skillicons.dev/icons?i=vim,vscode,idea,webstorm,figma)](https://skillicons.dev)
 
 <div align="left">
   <h2>📈 Solved.ac</h2>
