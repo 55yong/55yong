@@ -2,6 +2,7 @@
 
 <div align="center">
 
-  [![Tech Stacks](https://skillicons.dev/icons?i=js,react,discordjs,nodejs,java,linux,debian,ubuntu,windows)](https://skillicons.dev)   
+  [![Tech Stacks](https://skillicons.dev/icons?i=js,react,discordjs,nodejs,java)](https://skillicons.dev)   
+  [![Tech Stacks](https://skillicons.dev/icons?i=linux,debian,redhat,ubuntu,windows)](https://skillicons.dev)   
 
 </div>
